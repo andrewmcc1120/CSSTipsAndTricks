@@ -5,3 +5,11 @@
 .vw {
   font-size: 5vw;
 }
+
+.margin-all-around {
+  margin: 5px;
+}
+
+.padding-all-around {
+  padding: 5px;
+}
