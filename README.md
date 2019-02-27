@@ -18,4 +18,6 @@ Margin and padding were pretty elusive concepts to me at first, but they are an 
 Consider them this way: Margin is on the outside of the element you are adding it to, padding is on the inside of the element you are adding it to. If you have two 
 divs next to each other, margin will push them away from each other(given there is enough space on the page) and padding will push the item inside the div away from the edges of that div.
 
-Margin and padding can also be measured much like font size but being specific is usually the best option i.e. points, pixels, em, rem.s
+Margin and padding can also be measured much like font size but being specific is usually the best option i.e. points, pixels, em, rem.
+
+****Any information that you would like to know more about, please add it to the issues section
