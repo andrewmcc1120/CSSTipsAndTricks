@@ -29,4 +29,6 @@ Color can be added to your html, again, in a number of different ways, the most 
 1. By using background or background-color in your CSS, this will color the div or containing element without coloring anything else.
 2. by using color in your CSS, this will color the text inside the div or containing element.
 
+# I will add more on backgrounds and colors as well as media queries (breakpoints) and animations shortly. Thank you for your patience
+
 ****Any information that you would like to know more about, please add it to the issues section
