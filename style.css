@@ -13,3 +13,13 @@
 .padding-all-around {
   padding: 5px;
 }
+
+.background {
+  height: 200px;
+  background: rgba(255, 110, 110) url(https://images.unsplash.com/photo-1499615767948-e6a89ef6060f?auto=format&fit=crop&w=1050&q=80) no-repeat;
+  color: white;
+}
+
+.background-color {
+  background-color: rgb(255, 0, 0);
+}

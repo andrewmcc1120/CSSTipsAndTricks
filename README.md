@@ -23,6 +23,9 @@ divs next to each other, margin will push them away from each other(given there 
 
 Margin and padding can also be measured much like font size but being specific is usually the best option i.e. points, pixels, em, rem.
 
-## 
+## Colors
+Color can be added to your html, again, in a number of different ways, the most popular of which is solid color. Here are the quick ways to add color to any item.
+1. By using background or background-color in your CSS, this will color the div or containing element without coloring anything else.
+2. by using color in your CSS, this will color the text inside the div or containing element.
 
 ****Any information that you would like to know more about, please add it to the issues section
