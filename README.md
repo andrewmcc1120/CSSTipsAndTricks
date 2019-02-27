@@ -1,5 +1,6 @@
 To use this for personal use, click Download ZIP, unpack it in your desired location and open the CSSTipsAndTricks-master folder in VS Code for best use.
 (Make sure to install LiveServer extension for VS Code to run it)
+If you would like to stay up to date, create a branch, clone it, and then use git pull origin master to pull down the latest updates.
 
 # CSSTipsAndTricks
 Here are some tips and tricks that I have found useful, especially in my current position.
